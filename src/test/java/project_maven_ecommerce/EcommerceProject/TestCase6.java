@@ -29,6 +29,8 @@ public class TestCase6 {
 		AITC.searchBar();
 		Thread.sleep(5000);
 		AITC.searchButton();
+		Thread.sleep(5000);
+
 		
 }
 }
